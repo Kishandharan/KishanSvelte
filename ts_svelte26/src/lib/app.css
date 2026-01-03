@@ -1,0 +1,22 @@
+.topbar{
+  display: flex;
+  width: 100%;
+  background-color: #458cff;
+  padding: 10px;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.tbhl{
+  margin-right: 20px;
+  color: white;
+  background-color: #0f203b;
+  padding: 4px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: 400ms ease;
+}
+
+.tbhl:hover{
+  transform: scale(1.05);
+}
