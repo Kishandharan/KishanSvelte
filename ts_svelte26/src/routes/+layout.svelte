@@ -9,8 +9,9 @@
 </svelte:head>
 
 <div class="topbar">
-  <a href="/createbooks" class="tbhl">Create Books</a>
+  <a href="/createbooks" class="tbhl">Create/Edit Books</a>
   <a href="/viewbooks" class="tbhl">View Books</a>
+  <a href="/listbooks" class="tbhl">List Books</a>
   <a href="/deletebooks" class="tbhl">Delete Books</a>
 </div>
 
